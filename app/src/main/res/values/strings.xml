@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Food Recipe</string>
+    <!--    <string name="api_key">ba5109aa063b47718fa874cd1476bda1</string>-->
+    <string name="api_key">7c4563f707ab453aa2de893ef1444dc9</string>
+    <!--    <string name="api_key">fc280aba16db4aac9fd7c738629651cc</string>-->
+    <!--    <string name="api_key"> 90d4a518902b4e3e82437775370d0896</string>-->
+    <string name="_2_perons">2 Perons</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drink</item>
+    </string-array>
+
+    <!--    Desp-->
+    <!--    Heading-->
+
+    <string name="slogan">Fresh And  Delicious</string>
+    <string name="recipe_details">Recipe Details</string>
+    <string name="vishal_makhijani">Vishal</string>
+    <string name="full_name_input">Full Name</string>
+    <string name="email_input">Email Address:</string>
+    <string name="dev_email">sayeem192058@gmail.com</string>
+    <string name="weight">Weight</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="title_activity_list_meal_planer_recipe">ListMealPlanerRecipe</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="gender">Gender</string>
+    <string name="send_all_ingredients_to_shopping_list">Send All Ingredients to Shopping list</string>
+    <string name="title_activity_recipe_loading">RecipeLoading</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="forget_npassword">Forget\nPassword?</string>
+    <string name="which_food_would_you_like_to_cook">Which Food Would You Like To Cook?</string>
+    <string name="dish_tags">Dish Tags</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="number_of_minutes">Number Of Minutes</string>
+    <string name="total_meal_servings">Total Meal Servings</string>
+    <string name="total_number_of_ingredients">Total Number Of Ingredients</string>
+    <string name="similar_recipes">Similar Recipes</string>
+    <string name="home">Home</string>
+    <string name="tips_and_tricks">Tips And Tricks</string>
+    <string name="main_setting">Main Setting</string>
+    <string name="add_your_tips_and_tricks">Add Your Tips and Tricks</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="profile">Profile</string>
+    <string name="sign_in_sign_up">Sign in / Sign up</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="share_our_application">Share Our Application</string>
+    <string name="rate_our_application">Rate Our Application</string>
+    <string name="hello">Hello</string>
+    <string name="foodie">Foodie!</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="recipe_summary">Recipe Summary</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="already_have_account">Already Have Account!</string>
+    <string name="create_account">Create Account</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "438152521318",
+    "firebase_url": "https://food-recipe-b7928-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "food-recipe-b7928",
+    "storage_bucket": "food-recipe-b7928.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438152521318:android:a419ada48ea299d3142fa7",
+        "android_client_info": {
+          "package_name": "com.sayeem.recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0xqD-9xmIae66wocO2ESjNy4D_fjDLB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
